@@ -3,3 +3,8 @@ pandas
 numpy
 torchvision
 matplotlib
+transformers
+diffusers
+accelerate 
+scipy 
+safetensors
